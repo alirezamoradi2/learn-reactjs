@@ -12,3 +12,10 @@ Infrastructure - where you deploy, store, and run your application code (serverl
 Performance - how to optimize your application for end-users.
 Scalability - how your application adapts as your team, data, and traffic grow.
 Developer Experience - your team's experience building and maintaining your application.
+
+## What is React?
+React is a JavaScript library for building interactive user interfaces.
+By user interfaces (UI), we mean the elements that users see and interact with on-screen.
+By library, we mean React provides helpful functions (APIs) to build UI, but leaves it up to the developer where to use those functions in their application.
+Part of React's success is that it is relatively unopinionated about the other aspects of building applications. This has resulted in a flourishing ecosystem of third-party tools and solutions, including Next.js.
+It also means, however, that building a complete React application from the ground up requires some effort. Developers need to spend time configuring tools and reinventing solutions for common application requirements.
