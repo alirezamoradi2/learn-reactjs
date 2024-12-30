@@ -19,3 +19,9 @@ By user interfaces (UI), we mean the elements that users see and interact with o
 By library, we mean React provides helpful functions (APIs) to build UI, but leaves it up to the developer where to use those functions in their application.
 Part of React's success is that it is relatively unopinionated about the other aspects of building applications. This has resulted in a flourishing ecosystem of third-party tools and solutions, including Next.js.
 It also means, however, that building a complete React application from the ground up requires some effort. Developers need to spend time configuring tools and reinventing solutions for common application requirements.
+
+## What is Next.js?
+Next.js is a React framework that gives you building blocks to create web applications.
+You can use React to build your UI, then incrementally adopt Next.js features to solve common application requirements such as routing, data fetching, and caching - all while improving the developer and end-user experience.
+Whether you're an individual developer or part of a larger team, you can use React and Next.js to build fully interactive, highly dynamic, and performant web applications.
+
