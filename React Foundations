@@ -41,3 +41,8 @@ Updating UI with Javascript
 
 Use Link 
 https://nextjs.org/learn/react-foundations/updating-ui-with-javascript
+
+### Chapter 4
+Getting Started with React
+
+To use React in your newly created project, load two React scripts from an external website called unpkg.com:
